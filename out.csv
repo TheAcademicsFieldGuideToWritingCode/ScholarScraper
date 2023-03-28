@@ -1,0 +1,51 @@
+title,author_name,key_word_list,date_of_publication
+Auto-encoding variational bayes,Max Welling,deep learning,2013
+Semi-supervised classification with graph convolutional networks,Max Welling,deep learning,2016
+Modeling relational data with graph convolutional networks,Max Welling,deep learning,2018
+Semi-supervised learning with deep generative models,Max Welling,deep learning,2014
+Bayesian learning via stochastic gradient Langevin dynamics,Max Welling,deep learning,2011
+Variational graph auto-encoders,Max Welling,deep learning,2016
+Improved variational inference with inverse autoregressive flow,Max Welling,deep learning,2016
+Group equivariant convolutional networks,Max Welling,deep learning,2016
+An introduction to variational autoencoders,Max Welling,deep learning,2019
+Variational dropout and the local reparameterization trick,Max Welling,deep learning,2015
+Long short-term memory,Sepp Hochreiter,deep learning,1997
+Gans trained by a two time-scale update rule converge to a local nash equilibrium,Sepp Hochreiter,deep learning,2017
+Fast and accurate deep network learning by exponential linear units (elus),Sepp Hochreiter,deep learning,2015
+The vanishing gradient problem during learning recurrent neural nets and problem solutions,Sepp Hochreiter,deep learning,1998
+Gradient flow in recurrent nets: the difficulty of learning long-term dependencies,Sepp Hochreiter,deep learning,2001
+Self-normalizing neural networks,Sepp Hochreiter,deep learning,2017
+Long short-term memory [J],Sepp Hochreiter,deep learning,1997
+Untersuchungen zu dynamischen neuronalen Netzen,Sepp Hochreiter,deep learning,1991
+LSTM can solve hard long time lag problems,Sepp Hochreiter,deep learning,1997
+"A comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium",Sepp Hochreiter,deep learning,2014
+Dropout: a simple way to prevent neural networks from overfitting,Ruslan Salakhutdinov,deep learning,2014
+Reducing the dimensionality of data with neural networks,Ruslan Salakhutdinov,deep learning,2006
+"Show, attend and tell: Neural image caption generation with visual attention",Ruslan Salakhutdinov,deep learning,2015
+Improving neural networks by preventing co-adaptation of feature detectors,Ruslan Salakhutdinov,deep learning,2012
+Xlnet: Generalized autoregressive pretraining for language understanding,Ruslan Salakhutdinov,deep learning,2019
+Probabilistic matrix factorization,Ruslan Salakhutdinov,deep learning,2007
+Siamese neural networks for one-shot image recognition,Ruslan Salakhutdinov,deep learning,2015
+Efficient learning of deep Boltzmann machines,Ruslan Salakhutdinov,deep learning,2010
+Human-level concept learning through probabilistic program induction,Ruslan Salakhutdinov,deep learning,2015
+Skip-thought vectors,Ruslan Salakhutdinov,deep learning,2015
+Rethinking the inception architecture for computer vision,Jonathon Shlens,deep learning,2016
+Tensorflow: Large-scale machine learning on heterogeneous distributed systems,Jonathon Shlens,deep learning,2016
+Explaining and harnessing adversarial examples,Jonathon Shlens,deep learning,2014
+Learning transferable architectures for scalable image recognition,Jonathon Shlens,deep learning,2018
+A tutorial on principal component analysis,Jonathon Shlens,deep learning,2014
+Conditional image synthesis with auxiliary classifier gans,Jonathon Shlens,deep learning,2017
+Devise: A deep visual-semantic embedding model,Jonathon Shlens,deep learning,2013
+Adversarial autoencoders,Jonathon Shlens,deep learning,2015
+Progressive neural architecture search,Jonathon Shlens,deep learning,2018
+Randaugment: Practical automated data augmentation with a reduced search space,Jonathon Shlens,deep learning,2020
+Machine learning,Tom Mitchell,deep learning,2007
+Combining labeled and unlabeled data with co-training,Tom Mitchell,deep learning,1998
+"Machine learning: Trends, perspectives, and prospects",Tom Mitchell,deep learning,2015
+Text classification from labeled and unlabeled documents using EM,Tom Mitchell,deep learning,2000
+Machine learning an artificial intelligence approach,Tom Mitchell,deep learning,1984
+Global analysis of protein activities using proteome chips,Tom Mitchell,deep learning,2001
+Explanation-based generalization: A unifying view,Tom Mitchell,deep learning,1986
+Generalization as search,Tom Mitchell,deep learning,1982
+Toward an architecture for never-ending language learning,Tom Mitchell,deep learning,2010
+Machine learning classifiers and fMRI: a tutorial overview,Tom Mitchell,deep learning,2009
