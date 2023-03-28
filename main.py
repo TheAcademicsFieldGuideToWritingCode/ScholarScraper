@@ -96,13 +96,11 @@ def collect_paper_data(keyword):
     print("starting authors collection")
     authors = list(search_authors_by_interest(keyword))[:NUM_AUTHORS]
     print(f"Found {len(authors)} authors for keyword '{keyword}'.")
-
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        futures = [executor.submit(get_author_papers, author, keyword) for author in authors]
-        papers = []
-        for future in concurrent.futures.as_completed(futures):
-            papers.extend(future.result())
-            
+    
+    papers = []
+    for author in authors:
+        papers.extend(get_top_cited_papers(author, keyword))
+    
     return papers
 
 def main():
